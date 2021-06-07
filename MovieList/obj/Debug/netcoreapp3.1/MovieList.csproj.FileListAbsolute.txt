@@ -1,0 +1,13 @@
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.exe
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.deps.json
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.json
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.dev.json
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.dll
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.pdb
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.csprojAssemblyReference.cache
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfoInputs.cache
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfo.cs
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.dll
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.pdb
+D:\GrandCircus\Week3\Lab10 - MovieList\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.genruntimeconfig.cache
